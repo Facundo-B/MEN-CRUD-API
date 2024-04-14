@@ -10,6 +10,3 @@ CRUD API
 - ExpressJS
 - MongoDB
 
----
-
-### :link: Deployed at https://men-crud-api.onrender.com/
